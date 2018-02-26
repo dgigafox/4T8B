@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_shop_now"
+            android:title="Shop Now" />
+        <item
+            android:id="@+id/nav_order_history"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_about"
+            android:title="About the Company" />
+        <item
+            android:id="@+id/nav_deals"
+            android:enabled="false"
+            android:title="Deals (Soon)" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:enabled="false"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share (Soon)" />
+        </menu>
+    </item>
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/nav_account_settings"
+                android:enabled="true"
+                android:title="Account Settings" />
+            <item
+                android:id="@+id/nav_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

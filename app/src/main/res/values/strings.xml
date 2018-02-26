@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">4T8B</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_sign_up">Sign Up</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Empty Cart Text-->
+    <string name="cart_empty">Your Shopping Cart is Empty.</string>
+
+    <!--Activity Titles-->
+    <string name="title_activity_confirm_order">Confirm Order</string>
+    <string name="title_activity_cart">My Cart</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="title_activity_product_detail">Product Detail</string>
+    <string name="title_activity_thanks">Thanks for Ordering</string>
+
+    <!--Empty Order Text-->
+    <string name="order_empty">You have not placed any order yet.</string>
+    <string name="title_activity_order_detail">Order Details</string>
+    <string name="title_activity_login_sign_up">LoginSignUpActivity</string>
+
+    <!--Product View-->
+    <string name="view_info">More info</string>
+
+    <!--Cart View-->
+    <string name="add_instruction">Add instruction</string>
+    <string name="edit_qty">"Edit qty"</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="special_instruction">Special instruction</string>
+
+    <!--Sign Up Fields Caption-->
+    <string name="firstname">First name</string>
+    <string name="lastname">Last name</string>
+    <string name="username">Username: May contain letters or numbers or both. Up to 15 characters only.</string>
+    <string name="password">Password: May contain letters or numbers or both. Valid length is from 8 to 40 characters.</string>
+    <string name="confirmPassword">Confirm password. Please ensure that your passwords match.</string>
+    <string name="email">Email: Should be in proper format. eg. test@email.com</string>
+    <string name="mobileNumber">Mobile Number: Should contain 11 digits starting with 09. eg. 09xx-xxx-xxxx</string>
+    <string name="address">Address: Please fill in with your complete address.</string>
+    <string name="zipCode">Postal Code: To know your postal code check it on www.zip-codes.philsite.net</string>
+
+    <!--Credits-->
+    <string name="poweredBy">Developed and powered by:</string>
+    <string name="companyName">Gigafox Software</string>
+</resources>
